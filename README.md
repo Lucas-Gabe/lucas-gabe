@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao meu perfil  😁
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+## Welcome to my profile!  😁
 
  <div>
    <a href="https://github.com/Lucas-Gabe">
@@ -7,14 +9,17 @@
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="center" alt="HTML" height="30" width="40" src="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img align="center" alt="CSS" height="30" width="40" src="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
  
  <br>
  
-  ### Para entrar em contato comigo, me siga nas redes abaixo!
+  ### To contact me, click below!
  
 <div> 
   <a href = "mailto:mr.lucasgabriel@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -23,3 +28,4 @@
   ![Snake animation](https://github.com/Lucas-Gabe/Lucas-Gabe/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
